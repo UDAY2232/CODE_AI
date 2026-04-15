@@ -1,0 +1,10 @@
+project_id = "bjtlzdrrowemufzouesu"
+
+[functions.generate-code]
+verify_jwt = false
+
+[functions.explain-code]
+verify_jwt = false
+
+[functions.admin-api]
+verify_jwt = false
